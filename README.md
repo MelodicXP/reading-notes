@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://live.staticflickr.com/72/176784307_3c66a67933_b.jpg"  width="60%" height="30%">
+</div>
+
 # My Code Fellows Reading Journal
 
 ## Introduction
@@ -17,5 +21,7 @@ Growth mindset to me is a state of being where one ***does the work required*** 
 - Remember the **WHY**.  Everything I do is to support those that matter most to me in my life.
 
 - Listen, take advice, and **ASK** for help from those further ahead on the journey that I am pursuing.
+
+
 
 

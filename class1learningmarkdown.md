@@ -1,4 +1,4 @@
-# Learning Markdown
+# Class 1 - Learning Markdown
 
 ## What is Markdown?
 * It is a lightweight markup language that we can use to add formatting elements to plaintext documents. 

@@ -25,7 +25,7 @@ Six (6) hashtag symbols '######'.
 
 ## When making text bold or italicized for emphasis, it is best practice to use which symbol?
 Markdown applications don’t agree on how to handle underscores in the middle of a word.  
-It is best practice to use the asterick symbol (*).
+It is best practice to use the asterisk symbol (*).
 
 ## How do you create a link with Markdown?
 A link is created by using brackets first to display the desired text, and then parenthesis to apply the actual link to the text.  

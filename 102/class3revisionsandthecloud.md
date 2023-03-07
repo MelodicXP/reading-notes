@@ -21,7 +21,7 @@ This command commits a snapshot of all modifications to tracked files in the wor
 
 ## What is the command to send your changed files to Github?
 
-'*git push origin master*'  
+'*git push origin main*'  
 This command pushes changes from the local "master" branch to the remote repository named origin.
 
 Link to website [here](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#2) where answers to above questions were derived and more information to be found if needed.

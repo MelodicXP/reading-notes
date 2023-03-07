@@ -3,7 +3,7 @@
 ## What is HTML and why do we use it?
 
 * *HTML (HyperText Markup Language)* \- it is the most basic building block of the Web.  it is the code that is used to structure a web page and its content. It defines the meaning and structure of web content.
-* *HTML* consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way.
+* *HTML* \- consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way.
 * Why do we use *HTML*? \- It allows us to connect web pages to one another using links (*Hypertext*), either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.
 
 ## What are the 3 main parts of an HTML element?

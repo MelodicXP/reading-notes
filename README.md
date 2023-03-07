@@ -17,7 +17,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * Class 1 [Learning Markdown](https://melodicxp.github.io/reading-notes/102/class1learningmarkdown)
     * Class 2 [The Coder's Computer](https://melodicxp.github.io/reading-notes/102/class2thecoderscomputer)
     * Class 3 [Revisions and the Cloud](https://melodicxp.github.io/reading-notes/102/class3revisionsandthecloud)
-    * Class 4 [Structure Web Pages with Html](https://melodicxp.github.io/reading-notes/102/class4structurewebpageswithhtml)
+    * Class 4 [Structure Web Pages with Html](102/class4structurewebpageswithhtml.md)
     * Class 5 [Design Web Pages with CSS](https://melodicxp.github.io/reading-notes/102/class5designwebpageswithcss)
     * Class 6 [Activate Web Pages with Javascript](https://melodicxp.github.io/reading-notes/102/class6activatewebpageswithjavascript)
     * Class 7 [Programming with Javascript](https://melodicxp.github.io/reading-notes/102/class7programmingwithjavascript)

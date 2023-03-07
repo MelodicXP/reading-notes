@@ -22,6 +22,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * Class 6 [Activate Web Pages with Javascript](https://melodicxp.github.io/reading-notes/102/class6activatewebpageswithjavascript)
     * Class 7 [Programming with Javascript](https://melodicxp.github.io/reading-notes/102/class7programmingwithjavascript)
     * Class 8 [Operators and Loops](https://melodicxp.github.io/reading-notes/102/class8operatorsandloops)
+    * [Thoughts and Observations](https://melodicxp.github.io/reading-notes/102/thoughts-and-observations)
 
     &nbsp;
 2. **Class 201 Reading Notes:**

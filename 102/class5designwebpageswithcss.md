@@ -8,10 +8,10 @@
 
 **Example:** - the main heading on the page will display as large red text (using the code below):
 
-***h1 {  
+*h1 {  
   &nbsp;&nbsp;color: red;  
   &nbsp;&nbsp;font-size: 5em;  
-}***
+}*
 
 ## What are the three ways to insert CSS into your project?
 
@@ -66,6 +66,6 @@ To use inline styles, add the style attribute to the relevant element. The style
 
 ## Write an example of a CSS rule that would give all \<p> elements red text
 
-***p {  
+*p {  
     &ensp;&ensp;color: red;  
-    }***
+    }*

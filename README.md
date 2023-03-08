@@ -14,15 +14,15 @@ This site serves as place to capture notes from Code Fellows coursework in a con
 
 1. **Class 102 Reading Notes:**
 
-    * Class 1 [Learning Markdown](https://melodicxp.github.io/reading-notes/102/class1learningmarkdown)
-    * Class 2 [The Coder's Computer](https://melodicxp.github.io/reading-notes/102/class2thecoderscomputer)
-    * Class 3 [Revisions and the Cloud](https://melodicxp.github.io/reading-notes/102/class3revisionsandthecloud)
+    * Class 1 [Learning Markdown](102/class1learningmarkdown.md)
+    * Class 2 [The Coder's Computer](102/class2thecoderscomputer.md)
+    * Class 3 [Revisions and the Cloud](102/class3revisionsandthecloud.md)
     * Class 4 [Structure Web Pages with Html](102/class4structurewebpageswithhtml.md)
-    * Class 5 [Design Web Pages with CSS](https://melodicxp.github.io/reading-notes/102/class5designwebpageswithcss)
-    * Class 6 [Activate Web Pages with Javascript](https://melodicxp.github.io/reading-notes/102/class6activatewebpageswithjavascript)
-    * Class 7 [Programming with Javascript](https://melodicxp.github.io/reading-notes/102/class7programmingwithjavascript)
-    * Class 8 [Operators and Loops](https://melodicxp.github.io/reading-notes/102/class8operatorsandloops)
-    * [Thoughts and Observations](https://melodicxp.github.io/reading-notes/102/thoughts-and-observations)
+    * Class 5 [Design Web Pages with CSS](102/class5designwebpageswithcss.md)
+    * Class 6 [Activate Web Pages with Javascript](102/class6activatewebpageswithjavascript.md)
+    * Class 7 [Programming with Javascript](102/class7programmingwithjavascript.md)
+    * Class 8 [Operators and Loops](102/class8operatorsandloops.md)
+    * [Thoughts and Observations](102/thoughts-and-observations.md)
 
     &nbsp;
 2. **Class 201 Reading Notes:**

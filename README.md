@@ -42,3 +42,13 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * Class 13 [Class 13 Notes](https://melodicxp.github.io/reading-notes/201/201class13)
     * Class 14 [Class 14 Notes](https://melodicxp.github.io/reading-notes/201/201class14)
     * Class 15 [Class 15 Notes](https://melodicxp.github.io/reading-notes/201/201class15)
+
+    &nbsp;
+3. **Class 301 Reading Notes:**
+
+    * Class 1 [Class 1 Notes](301/301class1.md)
+
+    &nbsp;
+4. **Class 401 Reading Notes:**
+
+    * Class 1 [Class 1 Notes](401/401class1.md)

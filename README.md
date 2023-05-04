@@ -27,7 +27,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     &nbsp;
 2. **Class 201 Reading Notes:**
 
-    * Class 1 [Class 1 Notes](https://melodicxp.github.io/reading-notes/201/201class1)
+    * Class 1 [Setup Developer Toolbelt](201/201class1.md)
     * Class 2 [Class 2 Notes](https://melodicxp.github.io/reading-notes/201/201class2)
     * Class 3 [Class 3 Notes](https://melodicxp.github.io/reading-notes/201/201class3)
     * Class 4 [Class 4 Notes](https://melodicxp.github.io/reading-notes/201/201class4)
@@ -42,6 +42,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * Class 13 [Class 13 Notes](https://melodicxp.github.io/reading-notes/201/201class13)
     * Class 14 [Class 14 Notes](https://melodicxp.github.io/reading-notes/201/201class14)
     * Class 15 [Class 15 Notes](https://melodicxp.github.io/reading-notes/201/201class15)
+    * [Things I want to know more about](201/things-I-want-to-know-more-about.md)
 
     &nbsp;
 3. **Class 301 Reading Notes:**

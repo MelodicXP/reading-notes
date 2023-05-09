@@ -1,6 +1,6 @@
 # 201 Class 1 - Setup Developer Toolbelt
 
-## Statement why this topic matters as it relates to what you are studying in this module.  
+## Statement why this topic matters as it relates to what you are studying in this module  
 
 This topic matters because it serves as a refresher to material covered in 102.  Futhermore it serves as a setup to the foundation upon which our projects will be built upon in the upcoming classes. It provides the fundamental information and resources needed in relation to HTML structure, elements, attributes, JavaScript variables, and more.
 

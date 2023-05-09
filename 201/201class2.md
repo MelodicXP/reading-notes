@@ -69,9 +69,9 @@ A real world problem that coul be solved with a function is making a function to
     2. *'>'* - tests if value is greater than another
     3. *'>='* - tests if one value is greater than or equal to another.  
 &nbsp;
-4. **What is the difference between the logical operator '*&&*' and '||'?**  
-    * **&&** - *'And operator'*, both conditions must evaluate to to true.  
-    * **||** - *'OR operator'*, only one of the conditions must evaluate to true.
+4. **What is the difference between the logical operator '&&' and '||'?**  
+    * *'&&'* - *'And operator'*, both conditions must evaluate to to true.  
+    * *'||'* - *'OR operator'*, only one of the conditions must evaluate to true.
 
 ## Links to resources used for these notes
 

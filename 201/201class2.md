@@ -1,4 +1,4 @@
-# 201 Class 1 - Introduction to Web Development
+# 201 Class 2 - Introduction to Web Development
 
 ## Continue Reading - Introduction to HTML
 

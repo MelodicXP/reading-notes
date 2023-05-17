@@ -30,7 +30,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * Class 1 [Setup Developer Toolbelt](201/201class1.md)
     * Class 2 [Introduction to Web Development](201/201class2.md)
     * Class 3 [Lists, The Box Model, and Loops](201/201class3.md)
-    * Class 4 [Class 4 Notes](201/201class4.md)
+    * Class 4 [Links, Layouts, and Functions](201/201class4.md)
     * Class 5 [Class 5 Notes](201/201class5.md)
     * Class 6 [Class 6 Notes](201/201class6.md)
     * Class 7 [Class 7 Notes](201/201class7.md)

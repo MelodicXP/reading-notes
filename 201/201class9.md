@@ -18,7 +18,7 @@ It's important to remember that the bigger the form, the more risk of frustratin
 
 ## Learn JS
 
-1. **How would you describe events to a non-technical friend?**
+1. **How would you describe events to a non-technical friend?**  
 Think of it like a school assembly event that has annoucements during the assembly. Throughout the assembly different 'events' take place such as teachers and speakers giving speeches, and the children giving a performance.  The school assembly represents the web page, and the speeches and performances represent the events in JavaScript.  When the time for a speech happens (event), the associated individual(s) get up and perform the response. In the same way when an event is triggered in Javascript, the associated code runs in response to the event.(which would be called the event handler).
 2. **When using the addEventListener() method, what 2 arguments will you need to provide?**  
 A 'type' argument that is a case-sensitive string representing the event type to listen for and 'listener object' argument which is the object that receives a notification when an event of the specificed type occurs.

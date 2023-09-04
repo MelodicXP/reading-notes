@@ -1,4 +1,4 @@
-# My Code Fellows Reading Journal
+# Reading Notes - My Code Fellows Reading Journal
 
 ## Introduction
 
@@ -12,7 +12,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
 
 ### Table of Contents
 
-1. **Class 102 Reading Notes:**
+1. **Class 102 - Intro to Software Development:**
 
     * Class 1 [Learning Markdown](102/class1learningmarkdown.md)
     * Class 2 [The Coder's Computer](102/class2thecoderscomputer.md)
@@ -25,7 +25,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * [Thoughts and Observations](102/thoughts-and-observations.md)
 
     &nbsp;
-2. **Class 201 Reading Notes:**
+2. **Class 201 - Foundations of Software Development:**
 
     * Class 1 [Setup Developer Toolbelt](201/201class1.md)
     * Class 2 [Introduction to Web Development](201/201class2.md)
@@ -45,11 +45,25 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * [Things I want to know more about](201/things-I-want-to-know-more-about.md)
 
     &nbsp;
-3. **Class 301 Reading Notes:**
+3. **Class 301 - Intermediate Software Development:**
 
     * Class 1 [Class 1 Notes](301/301class1.md)
+    * Class 1 [Class 2 Notes](301/301class2.md)
+    * Class 1 [Class 3 Notes](301/301class3.md)
+    * Class 1 [Class 4 Notes](301/301class4.md)
+    * Class 1 [Class 5 Notes](301/301class5.md)
+    * Class 1 [Class 6 Notes](301/301class6.md)
+    * Class 1 [Class 7 Notes](301/301class7.md)
+    * Class 1 [Class 8 Notes](301/301class8.md)
+    * Class 1 [Class 9 Notes](301/301class9.md)
+    * Class 1 [Class 10 Notes](301/301class10.md)
+    * Class 1 [Class 11 Notes](301/301class11.md)
+    * Class 1 [Class 12 Notes](301/301class12.md)
+    * Class 1 [Class 13 Notes](301/301class13.md)
+    * Class 1 [Class 14 Notes](301/301class14.md)
+    * Class 1 [Class 15 Notes](301/301class15.md)
 
     &nbsp;
-4. **Class 401 Reading Notes:**
+4. **Class 401 - Advanced Software Development:**
 
     * Class 1 [Class 1 Notes](401/401class1.md)

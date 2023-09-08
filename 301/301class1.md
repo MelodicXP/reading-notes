@@ -1,5 +1,9 @@
 # 301 - Class 1 - Introduction to React and Components
 
+## Why this topic matters  
+
+  This topic matters is it will expose me to the fundamental concepts about React, specfically as relates to components.
+
 ## Component Based Architecture
 
 1. **What is a “component”?**  

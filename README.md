@@ -62,6 +62,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * Class 13 [Class 13 Notes](301/301class13.md)
     * Class 14 [Class 14 Notes](301/301class14.md)
     * Class 15 [Class 15 Notes](301/301class15.md)
+    * [Things I want to know more about](301/things-I-want-to-know-more-about.md)
 
     &nbsp;
 4. **Class 401 - Advanced Software Development:**

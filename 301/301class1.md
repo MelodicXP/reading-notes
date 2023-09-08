@@ -1,4 +1,4 @@
-# 301 - Class 1 - Images, Color, Text, and More Work With Functions
+# 301 - Class 1 - Introduction to React and Components
 
 ## Component Based Architecture
 

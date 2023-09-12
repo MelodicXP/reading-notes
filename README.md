@@ -49,7 +49,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
 
     * Class 1 [Introduction to React and Components](301/301class1.md)
     * Class 2 [States and Props](301/301class2.md)
-    * Class 3 [Class 3 Notes](301/301class3.md)
+    * Class 3 [Passing Functions as Props](301/301class3.md)
     * Class 4 [Class 4 Notes](301/301class4.md)
     * Class 5 [Class 5 Notes](301/301class5.md)
     * Class 6 [Class 6 Notes](301/301class6.md)

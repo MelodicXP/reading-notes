@@ -51,7 +51,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * Class 2 [States and Props](301/301class2.md)
     * Class 3 [Passing Functions as Props](301/301class3.md)
     * Class 4 [React and Forms](301/301class4.md)
-    * Class 5 [Class 5 Notes](301/301class5.md)
+    * Class 5 [Putting it all together](301/301class5.md)
     * Class 6 [Class 6 Notes](301/301class6.md)
     * Class 7 [Class 7 Notes](301/301class7.md)
     * Class 8 [Class 8 Notes](301/301class8.md)

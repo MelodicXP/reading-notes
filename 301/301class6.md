@@ -44,6 +44,24 @@
 
    A PATCH request in HTTP is like making a small, specific change to an existing resource without replacing the entire resource. It's used to apply partial modifications to a resource. Its like a piece of paper with a drawing on it, and you want to make a small correction to that drawing. Instead of erasing the entire drawing and starting over (which would be similar to a PUT request), you use a PATCH request. It's like placing a small, adhesive sticker over the part of the drawing you want to change or fix. The sticker contains the updated information, and you apply it precisely to the area that needs modification.
 
+## API Keys
+
+1. **Geocoding API**
+
+    Did you get your API key? - Yes, signed up for new account and got an access token.
+
+2. **Weatherbit API**
+
+    Did you get your API key? - Yes, signed up for new account and see message it is being provisioned.
+
+3. **Yelp API Docs**
+
+    Did you get your API key? - Yes, signed up for new account.
+
+4. **The Movie DB API Docs**
+
+    Did you get your API key? - Yes, signed up for new account.
+
 ## Links to resources used for these notes
 
 * [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)

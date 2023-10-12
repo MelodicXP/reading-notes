@@ -2,7 +2,7 @@
 
 ## Why this topic matters  
 
-  These topics matters 
+  This topic matters as it allows for the use of Node.js for the development of fast and responsive web applications, and the use of npm to install from a wide selection of useful tools.
 
 ## An Introduction to Node.js on sitepoint.com
 

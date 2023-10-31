@@ -57,7 +57,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * Class 8 [APIs & Regex](301/301class8.md)
     * Class 9 [Functional Programming](301/301class9.md)
     * Class 10 [In Memory Storage](301/301class10.md)
-    * Class 11 [Class 11 Notes](301/301class11.md)
+    * Class 11 [MongoDB and Mongoose](301/301class11.md)
     * Class 12 [Class 12 Notes](301/301class12.md)
     * Class 13 [Class 13 Notes](301/301class13.md)
     * Class 14 [Class 14 Notes](301/301class14.md)

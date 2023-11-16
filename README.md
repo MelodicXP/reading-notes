@@ -60,7 +60,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * Class 11 [MongoDB and Mongoose](301/301class11.md)
     * Class 12 [CRUD, Build A REST API With Node.js, Express, & MongoDB](301/301class12.md)
     * Class 13 [More CRUD](301/301class13.md)
-    * Class 14 [Class 14 Notes](301/301class14.md)
+    * Class 14 [Diversity, Equity, Inclusion, and Belonging](301/301class14.md)
     * Class 15 [Class 15 Notes](301/301class15.md)
     * [Things I want to know more about](301/things-I-want-to-know-more-about.md)
 

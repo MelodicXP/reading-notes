@@ -18,7 +18,7 @@ In going through the exercises I learned how to:
 
 ### SQL Exercise 1
 
-![SQL Excercise 1](/images/SQLExercise1.png)
+![SQL Excercise 1](images/SQLExercise1.png)
 
 ### SQL Exercise 2
 

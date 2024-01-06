@@ -109,3 +109,4 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * Class 45 [Class 45 Notes](401/401class45.md)
     * [Things I want to know more about](401/things-I-want-to-know-more-about.md)
     * [Command Line Tutorials](401/TutorialsCommandLine.md)
+    * [SQL Practice Exercises](401/SQLPractice.md)

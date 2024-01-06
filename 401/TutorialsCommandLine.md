@@ -2,15 +2,15 @@
 
 ## The Command Line
 
-* What is it?: 
+* What is it?:
 
   The command line, or terminal, is a text-based interface that allows direct interaction with your operating system through commands. It's a powerful tool that can be less intimidating and more friend-like with some practice.
 
-* How do I get one? 
+* How do I get one?
 
   The process of opening a terminal varies by operating system, but common methods include using search functions on Mac (Spotlight) and menu navigation on Linux. Windows users may require an SSH client like Putty to access Unix-like terminals.
 
-* Short-cut tip: 
+* Short-cut tip:
 
   When you enter commands, they are actually stored in a history. You can traverse this history using the up and down arrow keys. So don't bother re-typing out commands you have previously entered, you can usually just hit the up arrow a few times. You can also edit these commands using the left and right arrow keys to move the cursor where you want.
 

@@ -69,7 +69,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
 
     * Class 1 [Class 1 Notes](401/401class1.md)
     * Class 2 [Express, NPM, TDD, CI/CD](401/401class2.md)
-    * Class 3 [Class 3 Notes](401/401class3.md)
+    * Class 3 [Express REST API](401/401class3.md)
     * Class 4 [Class 4 Notes](401/401class4.md)
     * Class 5 [Class 5 Notes](401/401class5.md)
     * Class 6 [Class 6 Notes](401/401class6.md)

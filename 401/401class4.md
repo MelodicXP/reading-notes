@@ -1,4 +1,4 @@
-# 401 - Class 04 - Data Modeling
+# 401 - Class 04 - Data Modeling (noSQL vs SQL)
 
 ## Why This Topic Matters
 

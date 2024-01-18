@@ -48,6 +48,18 @@ ES6 Classes are a fundamental concept in modern JavaScript, crucial for structur
    const router = express.Router();
    ```
 
+3. **What do we use route middleware for?**  
+
+   Route middleware in Express is used to run specific code or functions when certain routes are hit. It can be used for a variety of purposes such as:
+
+   - Executing code to process the data before reaching the route handler (logging).
+   - Making changes to request and response objects.
+   - Ending request-response cycle.
+   - Calling next middleware in the stack.
+   - Performing authentication and authorization checks.
+   - Handling errors or specific conditions in a route.
+   - Middleware functions have access to the request object (req), the response object (res), and the next function in the application’s request-response cycle.
+
 ## Links to resources used for these notes
 
 - [Review: ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)

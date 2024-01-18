@@ -8,7 +8,7 @@ ES6 Classes are a fundamental concept in modern JavaScript, crucial for structur
 
 1. **What type of database is the best fit for the complex query intensive environment?**  
 
-    SQL databases are a good fit for complex query intensive environments. They use a structured query language (SQL) for defining and manipulating data, which is very powerful. SQL databases can efficiently handle complex queries, which is not a strength of NoSQL databases.
+    SQL databases are a good fit for complex query intensive environments. They use a structured query language (SQL) for defining and manipulating data. SQL databases can efficiently handle complex queries, which is not a strength of NoSQL databases.
 
 2. **What type of database is the best fit for hierarchical data storage?**  
 
@@ -84,6 +84,26 @@ ES6 Classes are a fundamental concept in modern JavaScript, crucial for structur
     **Many-to-Many Relationship**:
 
     - This is like students and classes in a school. A student can enroll in many classes, and each class can have many students enrolled in it. In databases, this is often managed with an intermediary table that records each unique combination of the 'many' relationships, like a table for student-class enrollments.
+
+### Screenshots from video
+
+  **SQL Structure**
+  ![SQL Structure](./images/SQLStructure.png)
+
+  **SQL Relations**
+  ![SQL Relations](./images/SQLRelations.png)
+
+  **SQL Types of Relations**
+  ![SQL Types of Relations](./images/SQLTypesOfRelations.png)
+
+  **NoSQL Diagram**
+  ![NoSQL Diagram](./images/NoSQLDiagram.png)
+
+  **NoSql Example**
+  ![NoSql Example](./images/NOSQLExample.png)
+
+  **NoSQL vs SQL**
+  ![NoSQL vs SQL](./images/noSQL_vs_SQL.png)
 
 ## Links to resources used for these notes
 

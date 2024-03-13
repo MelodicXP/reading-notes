@@ -74,7 +74,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * Class 5 [Linked Lists](401/401class5.md)
     * Class 6 [Authentication](401/401class6.md)
     * Class 7 [Bearer Authorization](401/401class7.md)
-    * Class 8 [Class 8 Notes](401/401class8.md)
+    * Class 8 [Access Control](401/401class8.md)
     * Class 9 [Class 9 Notes](401/401class9.md)
     * Class 10 [Class 10 Notes](401/401class10.md)
     * Class 11 [Class 11 Notes](401/401class11.md)

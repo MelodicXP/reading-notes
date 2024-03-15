@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello my name is Carmelo Gonzalez.  I have a passion for all things tech related! I am very excited for the journey ahead with Code Fellows!
+Hello my name is Melo.  I have a passion for all things tech related! I am very excited for the journey ahead with Code Fellows!
 
 Here is a link to [my github portfolio](https://github.com/MelodicXP) (although at the moment there isn't much to look at yet!)
 

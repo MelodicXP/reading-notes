@@ -79,7 +79,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * Class 10 [Stacks and Queues](401/401class10.md)
     * Class 11 [Event Driven Applications](401/401class11.md)
     * Class 12 [Socket.io](401/401class12.md)
-    * Class 13 [Class 13 Notes](401/401class13.md)
+    * Class 13 [Message Queue](401/401class13.md)
     * Class 14 [Class 14 Notes](401/401class14.md)
     * Class 15 [Class 15 Notes](401/401class15.md)
     * Class 16 [Class 16 Notes](401/401class16.md)

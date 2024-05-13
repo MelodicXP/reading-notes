@@ -83,7 +83,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * Class 14 [Event Driven Architecture](401/401class14.md)
     * Class 15 [Trees](401/401class15.md)
     * Class 16 [AWS: Cloud Servers](401/401class16.md)
-    * Class 17 [Class 17 Notes](401/401class17.md)
+    * Class 17 [AWS: S3 and Lambda](401/401class17.md)
     * Class 18 [Class 18 Notes](401/401class18.md)
     * Class 19 [Class 19 Notes](401/401class19.md)
     * Class 20 [Class 20 Notes](401/401class20.md)

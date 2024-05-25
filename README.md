@@ -85,7 +85,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * Class 16 [AWS: Cloud Servers](401/401class16.md)
     * Class 17 [AWS: S3 and Lambda](401/401class17.md)
     * Class 18 [AWS: API, Dynamo and Lambda](401/401class18.md)
-    * Class 19 [Class 19 Notes](401/401class19.md)
+    * Class 19 [AWS: Events](401/401class19.md)
     * Class 20 [Class 20 Notes](401/401class20.md)
     * Class 26 [Class 26 Notes](401/401class26.md)
     * Class 27 [Class 27 Notes](401/401class27.md)

@@ -88,7 +88,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * Class 19 [AWS: Events](401/401class19.md)
     * Class 20 [Class 20 Notes](401/401class20.md)
     * Class 26 [Component Based UI](401/401class26.md)
-    * Class 27 [Class 27 Notes](401/401class27.md)
+    * Class 27 [useState() Hook](401/401class27.md)
     * Class 28 [Class 28 Notes](401/401class28.md)
     * Class 29 [Class 29 Notes](401/401class29.md)
     * Class 30 [Class 30 Notes](401/401class30.md)

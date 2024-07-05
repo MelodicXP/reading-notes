@@ -91,7 +91,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * Class 27 [useState() Hook](401/401class27.md)
     * Class 28 [useEffect hook](401/401class28.md)
     * Class 29 [Advanced State with Reducers](401/401class29.md)
-    * Class 30 [Class 30 Notes](401/401class30.md)
+    * Class 30 [Hash Tables](401/401class30.md)
     * Class 31 [Class 31 Notes](401/401class31.md)
     * Class 32 [Class 32 Notes](401/401class32.md)
     * Class 33 [Class 33 Notes](401/401class33.md)

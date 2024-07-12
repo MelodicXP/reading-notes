@@ -93,7 +93,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * Class 29 [Advanced State with Reducers](401/401class29.md)
     * Class 30 [Hash Tables](401/401class30.md)
     * Class 31 [Context API](401/401class31.md)
-    * Class 32 [Class 32 Notes](401/401class32.md)
+    * Class 32 [Context API - Behaviors](401/401class32.md)
     * Class 33 [Class 33 Notes](401/401class33.md)
     * Class 34 [Class 34 Notes](401/401class34.md)
     * Class 35 [Class 35 Notes](401/401class35.md)

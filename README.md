@@ -97,7 +97,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * Class 33 [\<Login /> and \<Auth />](401/401class33.md)
     * Class 34 [API Integration](401/401class34.md)
     * Class 35 [Graphs](401/401class35.md)
-    * Class 36 [Class 36 Notes](401/401class36.md)
+    * Class 36 [Application State with Redux](401/401class36.md)
     * Class 37 [Class 37 Notes](401/401class37.md)
     * Class 38 [Class 38 Notes](401/401class38.md)
     * Class 39 [Class 39 Notes](401/401class39.md)

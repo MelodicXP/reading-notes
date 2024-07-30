@@ -99,7 +99,7 @@ This site serves as place to capture notes from Code Fellows coursework in a con
     * Class 35 [Graphs](401/401class35.md)
     * Class 36 [Application State with Redux](401/401class36.md)
     * Class 37 [Redux - Combined Reducers](401/401class37.md)
-    * Class 38 [Class 38 Notes](401/401class38.md)
+    * Class 38 [Redux - Asynchronous Actions](401/401class38.md)
     * Class 39 [Class 39 Notes](401/401class39.md)
     * Class 40 [Class 40 Notes](401/401class40.md)
     * Class 41 [Class 41 Notes](401/401class41.md)
